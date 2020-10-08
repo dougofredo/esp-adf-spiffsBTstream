@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libesp_dispatcher.a CMakeFiles/idf_component_esp_dispatcher.dir/audio_service.c.obj CMakeFiles/idf_component_esp_dispatcher.dir/esp_dispatcher.c.obj CMakeFiles/idf_component_esp_dispatcher.dir/periph_service.c.obj CMakeFiles/idf_component_esp_dispatcher.dir/esp_delegate.c.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libesp_dispatcher.a

@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libmqtt.a CMakeFiles/idf_component_mqtt.dir/esp-mqtt/mqtt_client.c.obj CMakeFiles/idf_component_mqtt.dir/esp-mqtt/lib/mqtt_msg.c.obj CMakeFiles/idf_component_mqtt.dir/esp-mqtt/lib/mqtt_outbox.c.obj CMakeFiles/idf_component_mqtt.dir/esp-mqtt/lib/platform_esp32_idf.c.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libmqtt.a

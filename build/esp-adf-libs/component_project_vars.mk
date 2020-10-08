@@ -1,0 +1,8 @@
+# Automatically generated build file. Do not edit.
+COMPONENT_INCLUDES += /Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_audio/include /Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_codec/include/codec /Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_codec/include/processing /Users/infogratochic/esp/esp-adf/components/esp-adf-libs/recorder_engine/include /Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_ssdp/include /Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_upnp/include /Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_sip/include /Users/infogratochic/esp/esp-adf/components/esp-adf-libs/audio_misc/include
+COMPONENT_LDFLAGS += -L$(BUILD_DIR_BASE)/esp-adf-libs -lesp-adf-libs -L/Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_audio/lib/esp32 -L/Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_codec/lib/esp32 -L/Users/infogratochic/esp/esp-adf/components/esp-adf-libs/recorder_engine/lib/esp32 -L/Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_ssdp/lib/esp32 -L/Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_upnp/lib/esp32 -lesp_processing -lesp_audio -lesp-amr -lesp-amrwbenc -lesp-aac -lesp-ogg-container -lesp-opus -lesp-tremor -lesp-flac -lesp_upnp -lesp-mp3 -lcodec-utils -lesp-g711 -lrecorder_engine  -L/Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_sip/lib/esp32 -lesp_sip -L/Users/infogratochic/esp/esp-adf/components/esp-adf-libs/esp_ssdp/lib/esp32 -lesp_ssdp
+COMPONENT_LINKER_DEPS += 
+COMPONENT_SUBMODULES += 
+COMPONENT_LIBRARIES += esp-adf-libs
+COMPONENT_LDFRAGMENTS += 
+component-esp-adf-libs-build: 

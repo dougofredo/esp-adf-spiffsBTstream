@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libbluetooth_service.a CMakeFiles/idf_component_bluetooth_service.dir/bluetooth_service.c.obj CMakeFiles/idf_component_bluetooth_service.dir/bt_keycontrol.c.obj CMakeFiles/idf_component_bluetooth_service.dir/a2dp_stream.c.obj CMakeFiles/idf_component_bluetooth_service.dir/hfp_stream.c.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libbluetooth_service.a

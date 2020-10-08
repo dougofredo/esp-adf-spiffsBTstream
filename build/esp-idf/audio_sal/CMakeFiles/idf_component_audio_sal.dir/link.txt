@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libaudio_sal.a CMakeFiles/idf_component_audio_sal.dir/audio_mem.c.obj CMakeFiles/idf_component_audio_sal.dir/audio_sys.c.obj CMakeFiles/idf_component_audio_sal.dir/audio_thread.c.obj CMakeFiles/idf_component_audio_sal.dir/audio_url.c.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libaudio_sal.a

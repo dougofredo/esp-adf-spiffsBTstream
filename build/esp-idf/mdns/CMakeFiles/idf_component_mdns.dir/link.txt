@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libmdns.a CMakeFiles/idf_component_mdns.dir/mdns.c.obj CMakeFiles/idf_component_mdns.dir/mdns_console.c.obj CMakeFiles/idf_component_mdns.dir/mdns_networking.c.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libmdns.a

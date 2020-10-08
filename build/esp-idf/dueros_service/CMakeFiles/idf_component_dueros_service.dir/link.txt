@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libdueros_service.a CMakeFiles/idf_component_dueros_service.dir/dueros_service.c.obj CMakeFiles/idf_component_dueros_service.dir/esp_audio_device_info.c.obj CMakeFiles/idf_component_dueros_service.dir/__/__/duer_profile.S.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libdueros_service.a

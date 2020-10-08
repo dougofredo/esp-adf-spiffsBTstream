@@ -1,0 +1,48 @@
+In archive /Users/infogratochic/esp/esp-adf/examples/player/test/build/esp-idf/main/libmain.a:
+
+play_bt_source_example.c.obj:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.app_main 00000254  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .text         00000000  00000000  00000000  00000288  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  2 .data         00000000  00000000  00000000  00000288  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  3 .bss          00000000  00000000  00000000  00000288  2**0
+                  ALLOC
+  4 .rodata.str1.4 0000069b  00000000  00000000  00000288  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  5 .rodata       00000084  00000000  00000000  00000924  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
+  6 .text.app_main 000005e1  00000000  00000000  000009a8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .rodata.__FUNCTION__$11349 00000009  00000000  00000000  00000f8c  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  8 .rodata.__func__$11339 00000009  00000000  00000000  00000f98  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  9 .debug_frame  00000028  00000000  00000000  00000fa4  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 10 .debug_info   000018b3  00000000  00000000  00000fcc  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 11 .debug_abbrev 000001b8  00000000  00000000  0000287f  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_loc    000000be  00000000  00000000  00002a37  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_aranges 00000020  00000000  00000000  00002af5  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_ranges 00000010  00000000  00000000  00002b15  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_line   0000099a  00000000  00000000  00002b25  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_str    00001697  00000000  00000000  000034bf  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 17 .comment      0000003b  00000000  00000000  00004b56  2**0
+                  CONTENTS, READONLY
+ 18 .xtensa.info  00000038  00000000  00000000  00004b91  2**0
+                  CONTENTS, READONLY
+ 19 .xt.lit       00000008  00000000  00000000  00004bc9  2**0
+                  CONTENTS, RELOC, READONLY
+ 20 .xt.prop      0000012c  00000000  00000000  00004bd1  2**0
+                  CONTENTS, RELOC, READONLY

@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/infogratochic/esp/esp-adf/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/Users/infogratochic/esp/esp-adf/examples/player/test/build/bootloader",
+    "config_file":        "/Users/infogratochic/esp/esp-adf/examples/player/test/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v3.3.2-107-g722043f73",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : " /Users/infogratochic/esp/esp-adf/esp-idf/components/efuse/Kconfig /Users/infogratochic/esp/esp-adf/esp-idf/components/esp32/Kconfig /Users/infogratochic/esp/esp-adf/esp-idf/components/log/Kconfig /Users/infogratochic/esp/esp-adf/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : " /Users/infogratochic/esp/esp-adf/esp-idf/components/bootloader/Kconfig.projbuild /Users/infogratochic/esp/esp-adf/esp-idf/components/esptool_py/Kconfig.projbuild /Users/infogratochic/esp/esp-adf/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "soc", "esp32", "log", "bootloader", "spi_flash", "micro-ecc", "efuse", "bootloader_support", "main", "esptool_py", "partition_table" ],
+    "build_component_paths" : [ "/Users/infogratochic/esp/esp-adf/esp-idf/components/soc", "/Users/infogratochic/esp/esp-adf/esp-idf/components/esp32", "/Users/infogratochic/esp/esp-adf/esp-idf/components/log", "/Users/infogratochic/esp/esp-adf/esp-idf/components/bootloader", "/Users/infogratochic/esp/esp-adf/esp-idf/components/spi_flash", "/Users/infogratochic/esp/esp-adf/esp-idf/components/micro-ecc", "/Users/infogratochic/esp/esp-adf/esp-idf/components/efuse", "/Users/infogratochic/esp/esp-adf/esp-idf/components/bootloader_support", "/Users/infogratochic/esp/esp-adf/esp-idf/components/bootloader/subproject/main", "/Users/infogratochic/esp/esp-adf/esp-idf/components/esptool_py", "/Users/infogratochic/esp/esp-adf/esp-idf/components/partition_table" ]
+}

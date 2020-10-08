@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libjson.a CMakeFiles/idf_component_json.dir/cJSON/cJSON.c.obj CMakeFiles/idf_component_json.dir/cJSON/cJSON_Utils.c.obj CMakeFiles/idf_component_json.dir/cJSON/test.c.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libjson.a

@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libota_service.a CMakeFiles/idf_component_ota_service.dir/esp_fs_ota.c.obj CMakeFiles/idf_component_ota_service.dir/ota_service.c.obj CMakeFiles/idf_component_ota_service.dir/ota_proc_default.c.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libota_service.a

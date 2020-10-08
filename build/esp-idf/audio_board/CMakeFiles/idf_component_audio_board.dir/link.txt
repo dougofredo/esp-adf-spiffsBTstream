@@ -1,0 +1,2 @@
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libaudio_board.a CMakeFiles/idf_component_audio_board.dir/lyrat_v4_3/board.c.obj CMakeFiles/idf_component_audio_board.dir/lyrat_v4_3/board_pins_config.c.obj
+/Users/infogratochic/.espressif/tools/xtensa-esp32-elf/1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libaudio_board.a
